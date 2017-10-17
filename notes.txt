@@ -1,0 +1,24 @@
+Mostra os commits que você já fez:
+git log --oneline
+
+Volta os arquivos para como estava naquele commit, sem alterar nada, só para você dar uma olhada.
+git checkout <número do commit>
+
+Volta para a master:
+git checkout master
+
+Volta o estado de um arquivo expecífico: 
+git checkout <número do commit> <nome do arquivo>
+git commit -m "alteração que vc fez"
+git push
+
+=======================
+
+Cola algo do terminal:
+Shift + fn + insert
+
+Copia algo do terminal:
+ctrl + fn + insert
+
+Seleciona algo do terminal e já cola: 
+Shift + fn + insert
