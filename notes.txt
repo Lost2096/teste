@@ -22,3 +22,5 @@ ctrl + fn + insert
 
 Seleciona algo do terminal e já cola: 
 Shift + fn + insert
+
+lost troxa
